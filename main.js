@@ -17,7 +17,7 @@ let gamespeed = 2
 
 
 const background = new Image()
-background.src = 'space.png'
+background.src = 'space_bg.png'
 const BG = {
     x1: 0,
     x2: canvas.width,
